@@ -10,11 +10,11 @@
 }
 
 .hero-section-light {
-    background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+    background: linear-gradient(135deg, #f8f8fc 0%, #e9eafa 55%, #e2eef0 100%);
 }
 
 .hero-section-dark {
-    background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+    background: linear-gradient(135deg, #111421 0%, #1d2033 55%, #192b34 100%);
 }
 
 /* 3D Scene */

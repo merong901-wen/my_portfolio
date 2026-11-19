@@ -3,16 +3,16 @@
 /* CSS Variables for Light Theme */
 :root,
 .light-theme {
-    --bg-primary: #f4f8fc;
-    --bg-secondary: #eaf1f8;
-    --bg-tertiary: #dce8f3;
+    --bg-primary: #f6f7fb;
+    --bg-secondary: #edf0f7;
+    --bg-tertiary: #e2e7f1;
     --text-primary: #111827;
     --text-secondary: #374151;
     --text-muted: #6b7280;
     --text-inverse: #ffffff;
-    --accent-primary: #2563eb;
-    --accent-secondary: #1d4ed8;
-    --accent-hover: #1e40af;
+    --accent-primary: #6656d9;
+    --accent-secondary: #5142bb;
+    --accent-hover: #43359f;
     --border-light: #e5e7eb;
     --border-medium: #d1d5db;
     --border-dark: #9ca3af;
@@ -26,16 +26,16 @@
 
 /* CSS Variables for Dark Theme */
 .dark-theme {
-    --bg-primary: #101b2d;
-    --bg-secondary: #17263b;
-    --bg-tertiary: #233650;
+    --bg-primary: #111421;
+    --bg-secondary: #191d2d;
+    --bg-tertiary: #252a3d;
     --text-primary: #f9fafb;
     --text-secondary: #e5e7eb;
     --text-muted: #9ca3af;
     --text-inverse: #111827;
-    --accent-primary: #60a5fa;
-    --accent-secondary: #3b82f6;
-    --accent-hover: #2563eb;
+    --accent-primary: #a99aff;
+    --accent-secondary: #8e7cf0;
+    --accent-hover: #c0b5ff;
     --border-light: #374151;
     --border-medium: #4b5563;
     --border-dark: #6b7280;
