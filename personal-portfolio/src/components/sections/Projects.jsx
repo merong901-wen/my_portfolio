@@ -261,7 +261,7 @@ const Projects = ({ darkMode }) => {
             githubUrl: "https://github.com/merong901-wen/complaint_Management-system.git",
             category: "Full Stack",
             featured: true,
-            imageUrl: "/images/merry.png"
+            imageUrl: "/images/complaint-management.svg"
         },
         {
             id: 7,
@@ -275,7 +275,7 @@ const Projects = ({ darkMode }) => {
             githubUrl: "https://github.com/yabcipher2/Healthcare-Management-System-HMS.git",
             category: "Full Stack",
             featured: false,
-            imageUrl: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?lib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+            imageUrl: "/images/healthcare-management.svg"
         },
     ];
 
